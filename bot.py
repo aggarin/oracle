@@ -1,9 +1,9 @@
-displayName = 'instance-20221027-2237'
+displayName = 'instance-20221028-0022'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaajtdvaqf3e7bepslejsvqtjwbylyfveajcy2rve57shov5drl63ka'
 availabilityDomain = "VziQ:AP-SINGAPORE-1-AD-1"
-imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaaazypld2lt35isxkk6lkusierp2yjoxfnabwbhwn6uv3dqvjuktaa"
+imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaav2nfrctnfspilj3ueob37g2yljyr7lhv663mpargajcunyqzjnla"
 subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaaiqlgzkzhcqdiiv3q2rvj2tbsw6au5xe3xf5ruiwz42qyhoynbuba'
-ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCGMRTHzH+vGvq/fGgGZKlsIctMBaYGhXsyNT+WK3uXDr8YSCe0KL66hYQOxd6dubihiCZB+1tR+nQ4+fNHqYX/P2ebfPE+snNCSIkD2YecZW9vfvhXmswrGJkGakrqEieqMJVY1jHCzKeCcT+bg1vz1ocm9obl/xHh6R1Er2YM0r9d3kKPnV8TUVY/hinwRP5r3j8SoVXfieU5z5f1gyGi6qW/fz7mkxvDxk1+Mh5Lb0bXBtrDg17EcjSoRNZQhc7pqIA1Hlfyfwlbul/C6wunSI/KJ2u60J+yednge0RSK92cCmZDlPE9+tCmZ86TCgiQr4eTjnSgRy8fFwI7DPGT ssh-key-2022-10-27"
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXkm9/objklx6vf1jNNWh89te6YXQuO0FydRsuDivPQYq6mwkmtne+hH6kJPJ6jofGsupN+k1kxVXmBeZtzmS9NTdq27Nl0XuzW/tWB4egrLf9AQaHNInAqBt6r6KE9toO05BfdjBEI2xHjSb3KHIrmHRRc1dspP+BggeF1Q6Ui9jpBz7Oqr8ZJaZZeccb3oHenRJ9kIx3pTaX1aSropevGzBwRwL2A37ciMz8E1wAOpRl7fmIXdTtSr8Mx0T7Nh8Lxh1NoYquMx8gS8Qyq8G2YO8ChJ9vz5b2lPawG0PHEIX1yz2hGlUTuQ2BU+gQDPZHwLID92mwTZ4CHafcPWRx ssh-key-2022-10-27"
 
 
 import oci
